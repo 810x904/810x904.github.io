@@ -26,6 +26,7 @@ button {
   width: 393px;
   height: 852px;
   margin: 0 auto;
+  margin-top: 50px;
   background: #111111;
   overflow: hidden;
 }
